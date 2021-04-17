@@ -1,0 +1,152 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-top: 70px;
+    background: #93a1c0;
+}
+
+.calculator{
+    background: rgba( 254, 254, 254, 0.20 );
+    box-shadow: 0 8px 20px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur(12.5px);
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    width: 20rem;
+    height: 28.5rem;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.calculator .display{
+    background-color: #fff;
+    height: 60px;
+    width: 17.5rem;
+    border-radius: 5px;
+    text-align: end;
+    padding-right: 10px;
+    margin-bottom: 10px;
+}
+
+.calculator .display .display-history{
+    height: 20px;
+    font-size: 12.5pt;
+    color: #919191;
+}
+
+.calculator  .display .display-output{
+    color: #000;
+    font-size: 19.5pt;
+}
+
+.calculator .calculator-buttons{
+    display: grid;
+    margin-top: 20px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+}
+
+.calculator .calculator-buttons button{
+    background-color: rgba(59, 59, 59, 0.226);
+    color: #000;
+    font-size: 13pt;
+    padding: 20px;
+    text-decoration: none;
+    outline: none;
+    border-color: #000;
+    border-width: 0px;
+    border-radius: 5px; 
+    transition: .4s;
+}
+
+/* Cores dos botoes */
+.calculator .calculator-buttons button:nth-child(3){
+    background-color: #20b2aa;
+}
+.calculator .calculator-buttons button:nth-child(4){
+    background-color: #e0960c;
+    
+}
+.calculator .calculator-buttons button:nth-child(8){
+    background-color: #f08080;
+}
+.calculator .calculator-buttons button:nth-child(12){
+    background-color: #7d93e0;
+}
+.calculator .calculator-buttons button:nth-child(16){
+    background-color: #9477af;
+}
+.calculator .calculator-buttons button:nth-child(19){
+    background-color: #2071B2;
+}
+
+/* Cores ao cobrir como mouse */
+.calculator .calculator-buttons button:nth-child(3):hover{
+    background-color: #32d3cb;
+    transition: .4s;
+}
+.calculator .calculator-buttons button:nth-child(4):hover{
+    background-color: #ffa500;
+    transition: .4s;
+}
+.calculator .calculator-buttons button:nth-child(8):hover{
+    background-color: #ec4343;
+    transition: .4s;
+}
+.calculator .calculator-buttons button:nth-child(12):hover{
+    background-color: #597af1;
+    transition: .4s;
+}
+.calculator .calculator-buttons button:nth-child(16):hover{
+    background-color: #a556ee;
+    transition: .4s;
+}
+.calculator .calculator-buttons button:nth-child(19):hover{
+    background-color: #1d8eeb;
+    transition: .4s;
+}
+
+/* Cores ao clicar */
+.calculator .calculator-buttons button:nth-child(3):active{
+    background-color: #7be6e0;
+    transition: .4s;
+}
+.calculator .calculator-buttons button:nth-child(4):active{
+    background-color: #ffd586;
+    transition: .4s;
+}
+.calculator .calculator-buttons button:nth-child(8):active{
+    background-color: #ff9494;
+    transition: .4s;
+}
+.calculator .calculator-buttons button:nth-child(12):active{
+    background-color: #98acf5;
+    transition: .4s;
+}
+.calculator .calculator-buttons button:nth-child(16):active{
+    background-color: #ba82ee;
+    transition: .4s;
+}
+.calculator .calculator-buttons button:nth-child(19):active{
+    background-color: #6eb8f5;
+    transition: .4s;
+}
+
+.calculator .calculator-buttons button:hover{
+    background-color: rgba(0, 0, 0, 0.322);
+    transition: .4s;
+}
+
+.calculator .calculator-buttons button:active{
+    background-color: rgba(0, 0, 0, 0.5);
+    transition: .4s;
+}
