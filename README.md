@@ -8,7 +8,7 @@
      Fazer uma calculadora como na imagem abaixo (Html/Css) e fazer ela funcionar através do JavaScript.
 </p>
 <h4>Link do projeto:</h4>
-<a href="dev-web-calculadora.vercel.app">dev-web-calculadora.vercel.app</a>
+<a href="https://dev-web-calculadora-dansf.vercel.app/">https://dev-web-calculadora-dansf.vercel.app/</a>
 
 ![calculadora](https://user-images.githubusercontent.com/63010902/115099561-17588300-9f0d-11eb-804d-fcda59f77cd0.png)
 
