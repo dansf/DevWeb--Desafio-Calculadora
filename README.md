@@ -22,7 +22,7 @@
 <h4>
     Gif 👾:
 </h4>
-<iframe src="https://giphy.com/embed/1ZjsihVveIm4rSrMrm" width="343" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/1ZjsihVveIm4rSrMrm" width="343" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1ZjsihVveIm4rSrMrm">via GIPHY</a></p>
 
 
 <h4>
