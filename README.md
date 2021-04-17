@@ -25,9 +25,8 @@
 <h4>
     Gif 👾:
 </h4>
+<iframe src="https://giphy.com/embed/1ZjsihVveIm4rSrMrm" width="343" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-<iframe src="https://giphy.com/embed/1ZjsihVveIm4rSrMrm" width="343" height="480">
-</iframe>
 
 <h4>
     Material de apoio (o que me ajudou a fazer):
