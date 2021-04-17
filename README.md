@@ -5,31 +5,23 @@
 <h4>
     Proposta da atividade:
 </h4>
-
 <p>
      Fazer uma calculadora como na imagem abaixo (Html/Css) e fazer ela funcionar através do JavaScript.
 </p>
 <h4>Link do projeto:</h4><a href="dev-web-calculadora-dansf.vercel.app">dev-web-calculadora-dansf.vercel.app</a>
-
-</br>
-
 ![calculadora](https://user-images.githubusercontent.com/63010902/115095199-bfaf1d00-9ef6-11eb-9005-973d735ef358.png)
 
-</br>
+
 
 <h4>
     O meu projeto pronto: ⬇️
 </h4>
 ![image](https://user-images.githubusercontent.com/63010902/115097232-4ff16000-9eff-11eb-8bc9-20ebe244ca2f.png)
 
-</br>
-
 <h4>
     Gif 👾:
 </h4>
 ![giphy](https://user-images.githubusercontent.com/63010902/115098962-68667800-9f09-11eb-8253-ce94667f3a35.gif)
-
-</br>
 
 
 <h4>
